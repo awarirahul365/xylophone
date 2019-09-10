@@ -1,6 +1,6 @@
-# xyloephone_udemy
+# xylophone_udemy
 
-A new Flutter project.
+SIMPLE XYLOPHONE WITH DIFFERENT RINGTONE
 
 ## Getting Started
 
